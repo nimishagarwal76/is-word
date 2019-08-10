@@ -1,0 +1,21 @@
+{
+  "name": "is-word",
+  "version": "1.0.3",
+  "description": "npm module to check if a word exists in a language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nimish Agrawal",
+  "license": "ISC",
+  "keywords": [
+    "dictionary",
+    "words",
+    "word",
+    "exist",
+    "language",
+    "check",
+    "trie",
+    "search"
+  ]
+}
