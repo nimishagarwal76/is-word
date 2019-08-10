@@ -23,7 +23,7 @@ To change the languages,
 
 american-english - ``isWord('american-english');``
 
-brazilian - ``isWord('american-english');``
+brazilian - ``isWord('brazilian');``
 
 british-english - ``isWord('british-english');``
 
