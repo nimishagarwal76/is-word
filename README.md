@@ -51,3 +51,5 @@ is-word is very fast compared to existing checkers which use a regex for all ava
 is-word was initially created for testing inconsistencies and mistakes in translations but can be expanded to much more. So if you have any feature suggestions feel free to open a PR.
 
 Though I have tested the code against a lot of test cases, still if you find a bug, feel free to raise an issue.
+
+NIBITCH NIBBA
